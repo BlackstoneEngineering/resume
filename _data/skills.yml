@@ -1,51 +1,13 @@
 ---
-- Team Leadership:
-  name: Team Leadership
+- technical:
+  name: SDK Creation, Open Source Software, Developer Relations, Developer Evangelism, Problem Solving
 
-- presentation:
-  name: Communication, Presentation
+- leadership:
+  name: Team Leadership, Communication, Presentation, Though Leadership, 
 
-- python:
-  name: Python
+- programming:
+  name: Python, HTML, NodeJS, Node, C/C++, REST API's, Bare Metal Embedded Systems, ARM Cortex-M, Git, Github
 
-- iot:
-  name: Internet of Things (IoT)
+- Industries:
+  name: Internet of Things (IoT), Semiconductor, ARM, RISC-V
 
-- c:
-  name: C/C++
-
-- microcontrollers:
-  name: Bare Metal Embedded Systems (ARM Cortex-M / Thumb2)
-
-- node:
-  name: NodeJS
-
-- rest:
-  name: REST API's
-
-- Problem Solving:
-  name: Problem Solving
-
-- Tutorials:
-  name: Tutorials
-
-- SDK:
-  name: SDK
-
-- Open-Source Software:
-  name: Open-Source Software
-
-- Demos:
-  name: Demos
-
-- Developer Relations:
-  name: Developer Relations
-
-- HTML:
-  name: HTML
-
-- Node:
-  name: Node
-
-- Git:
-  name: Git
